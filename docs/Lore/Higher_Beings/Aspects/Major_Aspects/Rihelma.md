@@ -9,9 +9,9 @@
 |:----------:|:----------------------:|
 | **Titles** | The Star-Rise Drake <br> Great Sky Aspect|
 | **Classification** | [Major Aspect](/Lore/Higher_Beings/Major_Aspects/) |
-| **Family** | [[Primal Tree]] (Parent) <br> [Rihalae](Lore/Higher_Beings/Aspects/Minor_Aspects/Rihalae/) (Child) <br> [Palaesida](Lore/Higher_Beings/Aspects/Minor_Aspects/Palaesida/) (Child, with [Dahr](Lore/Higher_Beings/Aspects/Major_Aspects/Dahr/))|
+| **Family** | [Primal Tree](Lore/Higher_Beings/Other/Primal_Tree/) (Parent) <br> [Rihalae](Lore/Higher_Beings/Aspects/Minor_Aspects/Rihalae/) (Child) <br> [Palaesida](Lore/Higher_Beings/Aspects/Minor_Aspects/Palaesida/) (Child, with [Dahr](Lore/Higher_Beings/Aspects/Major_Aspects/Dahr/))|
 | **Gender** | Feminine (she/her) |
-| **[[Devotion]] Site** | [[Star Rise Bastion]] |
+| **[[Devotion]] Site** | [Star Rise Bastion](World/Points_of_Interest/Star-Rise_Bastion/) |
 
 ## Characteristics
 Rihelma takes the physical form of a large drake, a type of flying dragon. She is reffered to by the feminine "she" and "her" pronouns. 
